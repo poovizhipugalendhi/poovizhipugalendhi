@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**poovizhipugalendhi/poovizhipugalendhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Poovizhi Pugalendhi 👋
 
-Here are some ideas to get you started:
+### Computer Science Engineer | Aspiring AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent solutions through technology, creativity, and continuous learning.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Integrated M.Tech Computer Science and Engineering student
+- 🤖 Interested in Artificial Intelligence and Generative AI
+- 💻 Exploring Software Development and Problem Solving
+- 🚀 Building projects that combine innovation and technology
+- 🌱 Currently strengthening my skills in Python and AI
+
+## 🎯 Current Focus
+
+- Artificial Intelligence & Generative AI
+- Data Structures and Algorithms
+- Full-Stack Development
+- Software Engineering
+
+## 💡 My Philosophy
+
+> Learn continuously. Build meaningfully. Innovate fearlessly.
+
