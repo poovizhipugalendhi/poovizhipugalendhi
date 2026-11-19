@@ -158,6 +158,17 @@
 </p>
 
 
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Curiosity+drives+discovery.;Building+at+the+intersection+of+computation+and+intelligence.;Axiom+of+the+Unimagined." />
+</p>
+
+<p align="center">
+  <sub>© 2026 POOVIZHI PUGALENDHI · DESIGNED WITH CURIOSITY</sub>
+</p>
+
+
 
 
 
