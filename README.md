@@ -28,9 +28,9 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&height=60&lines=ABOUT+THE+THINKER+%26+BUILDER"
-    alt="About the Thinker and Builder"
-  />
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=100000&color=A78BFA&center=true&vCenter=true&repeat=false&width=850&height=60&lines=ABOUT+THE+THINKER+%26+BUILDER"
+  alt="About the Thinker and Builder"
+/>
 </p>
 
 
@@ -120,7 +120,7 @@
   </a>
 </p>
 
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=100000&color=67E8F9&center=true&vCenter=true&repeat=false&width=750&height=50&lines=GITHUB+ANALYTICS" />
 </p>
@@ -138,6 +138,7 @@
   <img width="70%" src="https://streak-stats.demolab.com?user=poovizhipugalendhi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA" />
 </p>
 
+----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=100000&color=A78BFA&center=true&vCenter=true&repeat=false&width=750&height=50&lines=CONNECT+WITH+ME" />
@@ -160,6 +161,7 @@
 
 <br/>
 
+----
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Curiosity+drives+discovery.;Building+at+the+intersection+of+computation+and+intelligence.;Axiom+of+the+Unimagined." />
 </p>
